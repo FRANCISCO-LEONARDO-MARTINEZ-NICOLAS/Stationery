@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AFF4MIJ4MlnXNLzIoVPy4UAhF/SohqONGR0oz/DgmYo=",
+  "Source": "PapeleriaPOS.API",
+  "BasePath": "_content/PapeleriaPOS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,16 @@
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\bin\Debug\net9.0\PapeleriaPOS.Application.deps.json
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\bin\Debug\net9.0\PapeleriaPOS.Application.dll
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\bin\Debug\net9.0\PapeleriaPOS.Application.pdb
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\bin\Debug\net9.0\PapeleriaPOS.Domain.dll
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\bin\Debug\net9.0\PapeleriaPOS.Domain.pdb
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\obj\Debug\net9.0\PapeleriaPOS.Application.csproj.AssemblyReference.cache
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\obj\Debug\net9.0\PapeleriaPOS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\obj\Debug\net9.0\PapeleriaPOS.Application.AssemblyInfoInputs.cache
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\obj\Debug\net9.0\PapeleriaPOS.Application.AssemblyInfo.cs
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\obj\Debug\net9.0\PapeleriaPOS.Application.csproj.CoreCompileInputs.cache
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\obj\Debug\net9.0\PapeleriaPOS.Application.sourcelink.json
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\obj\Debug\net9.0\Papeleri.3FED2A23.Up2Date
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\obj\Debug\net9.0\PapeleriaPOS.Application.dll
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\obj\Debug\net9.0\refint\PapeleriaPOS.Application.dll
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\obj\Debug\net9.0\PapeleriaPOS.Application.pdb
+D:\Clientes\ErnestoBautista\Stationery\PapeleriaPOS.Application\obj\Debug\net9.0\ref\PapeleriaPOS.Application.dll
